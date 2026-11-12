@@ -1,13 +1,4 @@
-# Sistem Manajemen Reservasi — Merapi Glamping Tengah Sawah
-
-> *"Bangun Pagi Disapa Merapi, Malam Tidur di Tengah Sawah"*
-> Jl. Panggung No. 86, Jaranan, Argomulyo, Kec. Cangkringan, Sleman, DI Yogyakarta 55584
-
-Aplikasi web full-stack UAS Pemrograman Web — **Laravel 12 + Blade + Tailwind CSS + Alpine.js + Chart.js** dengan 3 role: **User, Staff, Admin**.
-
-Dikerjakan 4 anggota secara berurutan (Anggota 1 → 4). Setiap file diberi penanda `[Anggota N]` di baris awal.
-
----
+# Sistem Manajemen Reservasi — Merapi Glamping
 
 ## Kebutuhan
 
@@ -72,7 +63,6 @@ Di halaman login ada tombol untuk mengisi akun demo otomatis.
 | `MGTS-DEMO04` | Check-in **hari ini** (muncul di dashboard staff)               |
 | `MGTS-DEMO05` | Menunggu pembayaran (tombol *Bayar Sekarang (Sandbox)*)          |
 
-Seeder juga membuat ±220 booking dummy agar grafik statistik terisi.
 
 ## Ringkasan fitur
 
